@@ -1,0 +1,6 @@
+cc <- function(x,y) {
+    x[,c(1,3,4)] <- NULL
+    not_equals <- !(colnames(x) %in% c("fraction", y))
+    sum(x[rowSums(sapply(x[y],`==`,e2=x[y[1]])) == length(y) &
+    rowSums(sapply(x[not_equals],`==`,e2=x[y[1]])) == 0, 1])
+}
