@@ -40,6 +40,6 @@ cc(clustering_matrix, clusters)
 
 References
 
-Jardim de Queiroz et al. 2020. Mol Phyl Evol. https://doi.org/10.1016/j.ympev.2019.106711.
-Jones, G., 2017. J. Math. Biol. https://doi.org/10.1007/s00285-016-1034-0
-Jones, G. et al. 2015. Bioinformatics. https://doi.org/10.1093/bioinformatics/btu770
+Jardim de Queiroz et al. 2020. *Mol Phyl Evol*. https://doi.org/10.1016/j.ympev.2019.106711.
+Jones, G., 2017. *J. Math. Biol.* https://doi.org/10.1007/s00285-016-1034-0
+Jones, G. et al. 2015. *Bioinformatics.* https://doi.org/10.1093/bioinformatics/btu770
