@@ -1,4 +1,4 @@
-#**Cluster credibility function for R** (Jardim de Queiroz et al. 2020)
+# **Cluster credibility function for R** (Jardim de Queiroz et al. 2020)
 
 It allows to test explicitly different hypotheses of species (or clusters) based on the STACEY's output (Jones, 2017).
 
@@ -38,7 +38,7 @@ cc(clustering_matrix, clusters)
 #It returns a data frame containing two columns: name of the clustering hypothesis and the value of CC
 ```
 
-##**References**
+## **References**
 
 Jardim de Queiroz et al. 2020. *Mol Phyl Evol*. https://doi.org/10.1016/j.ympev.2019.106711.
 
