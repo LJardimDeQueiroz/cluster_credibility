@@ -17,17 +17,16 @@ clustering_matrix <- read.table(paste("clusterings.txt", sep=""), header=TRUE)
 clusters <- list() 
 
 clusters$cluster1 <- c("specimen1",
-								      "specimen2")
+		       "specimen2")
 
-clusters$cluster2	 <- c("specimen1",
-								        "specimen3")	
+clusters$cluster2 <- c("specimen1",
+ 		       "specimen3")	
 											
 clusters$cluster3 <- c("specimen1",
-								       "specimen2",
-								       "specimen3")
+		       "specimen2",
+		       "specimen3")
                        
 clusters$cluster4 <- c("specimen1")
-
 
 
 #Run CC:
