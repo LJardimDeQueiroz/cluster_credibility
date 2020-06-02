@@ -1,4 +1,4 @@
-Cluster credibility function for R (Jardim de Queiroz et al. 2020)
+**Cluster credibility function for R** (Jardim de Queiroz et al. 2020)
 
 It allows to test explicitly different hypotheses of species (or clusters) based on the STACEY's output (Jones, 2017).
 
