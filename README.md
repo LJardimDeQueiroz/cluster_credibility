@@ -3,9 +3,7 @@
 The cluster credibility (Jardim de Queiroz et al. 2020) allows to test explicitly different hypotheses of species (or clusters) based on STACEY's output (Jones, 2017).
 
 The function requires: 
-(1) the clustering output (*txt format) obtained after running SpeciesDelimitationAnalyser (Jones et al., 2015)
-and
-(2) a list of vectors containing the different clustering hypotheses.
+(1) The clustering output (*txt format) obtained after running SpeciesDelimitationAnalyser (Jones et al., 2015), and (2) a list of vectors containing the different clustering hypotheses.
 
 How to run:
 
