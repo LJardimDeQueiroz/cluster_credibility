@@ -32,7 +32,7 @@ source("cluster_credibility.R", chdir = TRUE)
 
 cc(clustering_matrix, clusters)
 
-#It returns a data frame containing two columns: name of the clustering hypothesis and the value of CC
+#It returns a data frame containing two columns: name of the clustering hypothesis and the value of CC.
 ```
 
 ## **References**
